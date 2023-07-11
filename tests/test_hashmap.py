@@ -3,7 +3,7 @@ from unittest import mock
 import pytest
 
 from hashmap import Hashmap
-from point import Point
+from tests.point import Point
 
 
 @pytest.mark.parametrize(
